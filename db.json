@@ -1,0 +1,6 @@
+{
+    "Accounts": [
+        {"id": 1 , "Amount": 100},
+        {"id": 2 , "Amount": 200}
+    ]
+}
